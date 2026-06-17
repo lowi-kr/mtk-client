@@ -90,7 +90,7 @@ It installs all dependencies automatically and launches the app.
 
 **Option 2 — Manual**
 ```bash
-git clone https://github.com/yourusername/mtk-client.git
+git clone https://github.com/lowi-kr/mtk-client.git
 cd mtk-client
 pip install -r requirements.txt
 python mtk_client.py
